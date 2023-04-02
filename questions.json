@@ -1,0 +1,46 @@
+{
+    "question": [
+      "Q1. By which statement can we come out of the loop?",
+      "Q2. Binary search can be applied on?",
+      "Q3. which of the following is not a method in string?",
+      "Q4. The syntax to get keys from a dictionary is",
+      "Q5. The correct syntax for defining a function is?"
+
+    ],
+    "answer": [
+      4,
+      1,
+      4,
+      4,
+      1
+
+    ],
+    "options": [
+  
+      ["continue",
+        "leave",
+        "catch",
+        "break"
+      ],
+      ["Sorted List",
+        "Unsorted List",
+        "Both A and B",
+        "Any list with any elements"
+      ],
+      ["lower()",
+        "upper()",
+        "isaplha()",
+        "insert()"
+      ],
+      ["d.key()",
+        "d.item()",
+        "d.value()",
+        "d.keys()"
+      ],
+      ["def function_name():",
+        "function function_name():",
+        "function_name():",
+        "def function_name:"
+      ]
+    ]
+  }
